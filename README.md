@@ -6,3 +6,4 @@
 ---
 ![Hiddenduck's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiddenduck&theme=dark&show_icons=true)
 
+![Hiddenduck's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
