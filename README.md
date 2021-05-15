@@ -4,6 +4,5 @@
 
 #### I like to play some videogames 🎮 and study 📚
 ---
-![Hiddenduck's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiddenduck&theme=dark&show_icons=true)
+![Hiddenduck's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiddenduck&theme=dark&show_icons=true) ![Hiddenduck's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hiddenduck&theme=blue-green)
 
-![Hiddenduck's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hiddenduck&theme=blue-green)
