@@ -3,5 +3,5 @@
 ### I'm currently a computer science student at University of Minho 🎓
 
 ---
-![Hiddenduck's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiddenduck&theme=dark&show_icons=true) ![Hiddenduck's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hiddenduck&theme=blue-green)
+![Hiddenduck's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hiddenduck&theme=blue-green)
 
