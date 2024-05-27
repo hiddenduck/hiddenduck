@@ -1,4 +1,15 @@
-## Hey! I'm Carlos Machado also known as HiddenDuck 🦆
+# Hey! I'm Carlos Machado, also known as HiddenDuck 🦆
 
-### I'm currently a software engineering student at University of Minho 🎓
+Welcome to my GitHub profile! I'm currently a software engineering student at University of Minho 🎓
 
+## 🛠️ Technologies and Tools
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
